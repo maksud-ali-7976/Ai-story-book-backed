@@ -1,5 +1,5 @@
 {
-	"name": "selfie_app",
+	"name": "ai-story-book",
 	"version": "1.0.50",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
